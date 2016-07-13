@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Patate</string>
+    <string name="soustraction">Soustraction</string>
+    <string name="addition">Addition</string>
+    <string name="plouc">Plouc.</string>
+    <string name="freeze">FREEZE</string>
+</resources>
